@@ -3,7 +3,7 @@
 
 | Building | Room |
 |-----|----|
-* I choose this class because it combines both psychology and computer science. I want to learn how to code because it is a useful skill to have.
+* I chose this class because it combines both psychology and computer science. I want to learn how to code because it is a useful skill to have.
 
 * Everything about programming and executing a research project scares me because I am new to coding.
 
